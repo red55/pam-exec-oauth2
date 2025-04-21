@@ -15,7 +15,7 @@ import (
 	"runtime"
 
 	"cloud.google.com/go/compute/metadata"
-	"github.com/shimt/pam-exec-oauth2/internal/authhandler"
+	"github.com/shimt/pam-exec-oauth2/internal/oauth2/authhandler"
 	"github.com/shimt/pam-exec-oauth2/internal/oauth2"
 )
 
